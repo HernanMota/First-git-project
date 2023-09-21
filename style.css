@@ -26,6 +26,16 @@
     height: 50px;
 }
 
+.tiny-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-tiny {
+    width: 30%;
+    height: 50px;
+}
+
 .box-wrapper {
     width: 45%;
     display: flex;
